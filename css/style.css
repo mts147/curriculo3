@@ -51,7 +51,7 @@ html,body{
     left: 20%;
     width: 80%;
     height: 100%;
-    background-color: turquoise;
+    background-color: mediumaquamarine;
     overflow-y: auto;
     padding:0 3%;
 }
@@ -62,18 +62,16 @@ section.descricao{
 
 }
 section.decricao h1{
-    font-size: 500px;
-}
-section.decricao h3 > span{
+    font-size: 100px;
 }
 
 section.descricao h3{
-    color: rgb(39, 23, 23);
+    color: rgb(255, 255, 255);
     font-size: 26px;
 }
 section.descricao p{
-    color: rgb(39, 23, 23);
-    font-size: 26px;
+    color: rgb(0, 0, 0);
+    font-size: 22px;
 }
 
 .icones-redesociall{
